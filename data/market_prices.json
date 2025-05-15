@@ -1,0 +1,6 @@
+[
+    {"make": "Lexus", "model": "IS350", "year": 2011, "price": 18000},
+    {"make": "Lexus", "model": "IS350", "year": 2012, "price": 19000},
+    {"make": "Toyota", "model": "86", "year": 2013, "price": 21000},
+    {"make": "Toyota", "model": "86", "year": 2015, "price": 23000}
+]
